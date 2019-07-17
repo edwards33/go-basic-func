@@ -1,1 +1,1 @@
-## Go lang notes: types
+## Go lang notes: basic functions examples
